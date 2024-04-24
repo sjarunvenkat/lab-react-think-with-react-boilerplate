@@ -1,3 +1,17 @@
+# Ouput 
+
+## PART 1
+![](https://github.com/sjarunvenkat/lab-react-think-with-react-boilerplate/blob/main/part%201/Screenshot%20part%201.png)
+
+
+## PART 2
+![](https://github.com/sjarunvenkat/lab-react-think-with-react-boilerplate/blob/main/part%202/Screenshot%20part%202.png)
+
+## PART 3
+![](https://github.com/sjarunvenkat/lab-react-think-with-react-boilerplate/blob/main/part%203/Screenshot%20part%203.png)
+
+
+
 ![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 # Kalvium Lab | REACT - Think with React
